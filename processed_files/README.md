@@ -2,7 +2,7 @@ Match types used in the spreadsheets in this folder:
 
 T: True match. The title in HathiTrust identified by the matching scripts is indeed the same as the title from the book catalog.
 
-F: False match. The title in HathiTrust identified by the matching scripts is clearly not the same as the title from the book catalog, *and* the correct title is included in HathiTrust.
+F: False match. The title in HathiTrust identified by the matching scripts is clearly not the same as the title from the book catalog (or the matching scripts found no match at all), *and* the correct title is included in HathiTrust.
 
 M: The title from the book catalog cannot be found in HathiTrust.
 
