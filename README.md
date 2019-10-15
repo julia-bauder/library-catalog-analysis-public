@@ -2,7 +2,7 @@ This repository contains replication data and code to accompany the article "Hat
 
 The project was originally intended to cover the thirteen library catalogs (listed below) from ten different American libraries that were published between 1776 and 1825 and that were available from HathiTrust in early 2019. Due to certain technical issues discussed in the article, only nine of the catalogs were included in the final analysis; data from only those nine catalogs are included in this repository. Due to the terms of the licensing arrangements between HathiTrust and Google (who digitized most of the library catalogs used in this analysis), neither the PDF nor the hOCR files can be distributed in this repository. However, the PDFs can be downloaded using the Handles below. The hOCR files used in this analysis can be recreated by running the Linux pdftotext command line utility against these PDFs to extract the indicated pages:
 
-``pdftotext -bbox -f *starting page number* -l *ending page number* -enc "ASCII7" *file_name.pdf*``
+``pdftotext -bbox -f <starting_page_number> -l <ending_page_number> -enc "ASCII7" <file_name.pdf>``
 
 Pdftotext version 0.62.0 was used for this project.
 
