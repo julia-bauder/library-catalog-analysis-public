@@ -22,7 +22,7 @@ Library Company of Philadelphia, *A Catalogue of the Books Belonging to the Libr
 
 Mercantile Library Association of the City of New York, *Catalogue of the Books Belonging to the Mercantile Library Association of the City of New-York: To Which Are Prefixed, the Constitution and the Rules and Regulations of the Same.* New York: printed by Hopkins & Morris, 1825, http://hdl.handle.net/2027/nyp.33433057517090. PDF pages 24-159.
 
-New York Society Library, *A Catalogue of the Books Belonging to the New-York Society Library.* New York: printed by C. S. Van Winkle, 1813, http://hdl.handle.net/2027/mdp.39015023478822. PDF pages 64-287.
+New York Society Library, *A Catalogue of the Books Belonging to the New-York Society Library.* New York: printed by C. S. Van Winkle, 1813, http://hdl.handle.net/2027/mdp.39015023478822. PDF pages 64-214 and 220-287.
 
 Providence Library Company, *Charter and By Laws of the Providence Library Company, and a Catalogue of the Books of the Library.* Providence, RI: printed by Miller and Hutchens, 1818, http://hdl.handle.net/2027/nyp.33433059555346. PDF pages 26-53.
 
